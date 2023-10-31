@@ -1,6 +1,6 @@
 ![Header](https://github.com/Abendgast/Abendgast/blob/main/assets/W9dC.gif)
 
-## Hello! my name is Sergey, I am a student, I like to study programming, I write in C++ and Python. I’m still a beginner, but I confidently continue to work on myself and move towards my goal!
+## Hi! my name is Serhii, I am a student, I like to study programming, I write in C++ and Python. I’m still a beginner, but I confidently continue to work on myself and move towards my goal!
 
 
 ### Languages and tools
@@ -16,3 +16,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username_736)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNZdG9USQcX4sfVs5OuwjRQ)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/897225470192521266)
+
+### IDE
+[![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)]
+[![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]
+
+
+	
