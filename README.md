@@ -1,4 +1,6 @@
-![Header](file:///D:/Users/1/Downloads/ezgif.com-gif-maker.gif)
+![Header](/assets
+/ezgif.com-gif-maker.gif
+)
 
 ## Hi! my name is Serhii, I am a student, I like to study programming, I write in C++ and Python. I’m still a beginner, but I confidently continue to work on myself and move towards my goal!
 
