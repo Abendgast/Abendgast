@@ -1,4 +1,6 @@
-![Header](https://github.com/Abendgast/Abendgast/blob/main/assets/W9dC.gif)
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ## Hi! my name is Serhii, I am a student, I like to study programming, I write in C++ and Python. I’m still a beginner, but I confidently continue to work on myself and move towards my goal!
 
