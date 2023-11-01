@@ -1,6 +1,7 @@
 ![Header](https://im4.ezgif.com/tmp/ezgif-4-91d3985e8c.gif)
 
  ## Hi! my name is Serhii, I am a student, I like to study programming, I write in C++ and Python. I’m still a beginner, but I confidently continue to work on myself and move towards my goal!
+![333](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077)
 
 
 ## Languages and tools
@@ -25,6 +26,6 @@
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=radical)
 
 	
