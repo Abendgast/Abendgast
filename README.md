@@ -1,4 +1,4 @@
-![Header](https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif)
+![Header](file:///D:/Users/1/Downloads/ezgif.com-gif-maker.gif)
 
 ## Hi! my name is Serhii, I am a student, I like to study programming, I write in C++ and Python. I’m still a beginner, but I confidently continue to work on myself and move towards my goal!
 
