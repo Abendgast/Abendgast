@@ -1,6 +1,4 @@
-![Header](/assets
-/ezgif.com-gif-maker.gif
-)
+![Header](https://im4.ezgif.com/tmp/ezgif-4-91d3985e8c.gif)
 
 ## Hi! my name is Serhii, I am a student, I like to study programming, I write in C++ and Python. I’m still a beginner, but I confidently continue to work on myself and move towards my goal!
 
