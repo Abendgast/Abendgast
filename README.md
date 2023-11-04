@@ -1,7 +1,7 @@
 
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A027F7&center=true&vCenter=true&lines=Hi!+my+name+is+Serhii+I+am+a+student++but+I+confidently+continue+working+on+myself+and+move+towards+my+goal!;I+like+to+study+programming;+I+write+in+C%2B%2B+and+Python.;+I%E2%80%99m+still+a+beginner;But+i+continue+working+on+myself;and+move+towards+my+goal!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A027F7&width=720&lines=Hi!+my+name+is+Serhii;I+am+a+student;I+like+to+study+programming;I+write+in+C%2B%2B+and+Python.;I%E2%80%99m+still+a+beginner;but+I+confidently+continue+working+on+myself+and+move+towards+my+goal!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A027F7&width=720&lines=Hi!+my+name+is+Serhii;I+am+a+student;I+like+to+study+programming;I+write+in+C%2B%2B+and+Python.;I%E2%80%99m+still+a+beginner;but+I+confidently+continue+working+on+myself+and+move+towards+my+goal!)](https://git.io/typing-svg)
 
                      
 ## Languages and tools
