@@ -1,4 +1,15 @@
-
+name: Compact display
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.achievements.compact.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_achievements: yes
+  plugin_achievements_only: >-
+    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+    scripter, packager, explorer, infographile, manager
+  plugin_achievements_display: compact
+  plugin_achievements_threshold: X
 
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
