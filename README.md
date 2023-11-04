@@ -1,4 +1,10 @@
-![Header](https://im4.ezgif.com/tmp/ezgif-4-91d3985e8c.gif)
+name: generate github-contribution-grid-snake.svg
+        uses: Abendgast/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
  ## Hi! my name is Serhii, I am a student, I like to study programming, I write in C++ and Python. I’m still a beginner, but I confidently continue to work on myself and move towards my goal!
 ![333](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077)
