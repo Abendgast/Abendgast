@@ -26,6 +26,12 @@
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=radical) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abendgast&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=radical" alt="GitHub stats" height="165">
+</p>
+
+<p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=abendgast&theme=dark&background=000000" alt="GitHub Streak" height="165">
+</p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />	
