@@ -1,4 +1,4 @@
-
+[![npm][version]](https://www.npmjs.com/package/gradient-badge)
 
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
