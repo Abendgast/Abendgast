@@ -32,3 +32,20 @@
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />	
+
+
+
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact&theme=dark)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abendgast&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/abendgast/abendgast?color=blue&style=for-the-badge)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abendgast&theme=dark)
+
+![Profile views](https://gpvc.arturio.dev/abendgast)
