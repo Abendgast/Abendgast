@@ -6,6 +6,7 @@
 ![333](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077) 
 
 <img src="https://widgetbite.com/stats/abendgast" alt="watching_count" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abendgast)](https://git.io/streak-stats)
 ## Languages and tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
