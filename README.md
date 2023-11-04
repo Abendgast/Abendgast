@@ -3,9 +3,9 @@
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
  ## Hi! my name is Serhii, I am a student, I like to study programming, I write in C++ and Python. I’m still a beginner, but I confidently continue to work on myself and move towards my goal!
-![333](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077) <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+![333](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077) 
 
-
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 ## Languages and tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
