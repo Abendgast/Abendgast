@@ -32,19 +32,3 @@
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />	
-
-
-
-
-
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abendgast&theme=react-dark&bg_color=20232a&hide_border=true)
-
-![GitHub Contribution Graph](https://github-contribution-stats.vercel.app/api/?username=abendgast)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=dark)
-
-![GitHub Repo stats](https://github-readme-stats.vercel.app/api/pin/?username=abendgast&repo=repo-name&theme=dark)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abendgast&theme=dark)
