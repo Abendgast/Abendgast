@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fline-neon-colorful-straigt-line-gif-17184892&psig=AOvVaw0S1Y9aFWEKI6PRdMOYyZSY&ust=1699211092158000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC248OEq4IDFQAAAAAdAAAAABBq" alt="Line" width="100" />
+
 
 ## Socials <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="20" />
 
