@@ -1,9 +1,11 @@
-![Header](https://im4.ezgif.com/tmp/ezgif-4-91d3985e8c.gif)
-
- ## Hi! my name is Serhii, I am a student, I like to study programming, I write in C++ and Python. I’m still a beginner, but I confidently continue to work on myself and move towards my goal!
-![333](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077)
 
 
+<img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+ ## Hi! my name is Serhii, I am a student, I like to study programming, I write in C++ and Python. I’m still a beginner, but I confidently continue working on myself and move towards my goal!
+![333](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077)   <img src="https://widgetbite.com/stats/abendgast" alt="watching_count" />   
+
+                     
 ## Languages and tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,8 +28,14 @@
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=radical)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abendgast&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />	
+
+
+
+
+<<<<<<< HEAD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abendgast)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,3 +43,5 @@
 ![Profile views](https://gpvc.arturio.dev/abendgast)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abendgast&theme=xcode)
+=======
+>>>>>>> f1a7b66f0ea408ae6216971fb1c5bed7deb4de97
