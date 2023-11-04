@@ -1,4 +1,4 @@
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/abendgast/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
 
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
