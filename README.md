@@ -1,8 +1,7 @@
 
-
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
- ## Hi! my name is Serhii, I am a student, I like to study programming, I write in C++ and Python. I’m still a beginner, but I confidently continue working on myself and move towards my goal!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=A027F7&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=Hi!+my+name+is+Serhii+I+am+a+student++but+I+confidently+continue+working+on+myself+and+move+towards+my+goal!;I+like+to+study+programming;+I+write+in+C%2B%2B+and+Python.;+I%E2%80%99m+still+a+beginner;But+i+continue+working+on+myself;and+move+towards+my+goal!)](https://git.io/typing-svg)
 ![333](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077)   <img src="https://widgetbite.com/stats/abendgast" alt="watching_count" />   
 
                      
@@ -33,15 +32,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />	
 
 
-
-
-<<<<<<< HEAD
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abendgast)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/abendgast)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abendgast&theme=xcode)
-=======
->>>>>>> f1a7b66f0ea408ae6216971fb1c5bed7deb4de97
