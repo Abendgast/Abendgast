@@ -1,7 +1,7 @@
 
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=AC31F7&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&multiline=true&repeat=%D0%9B%D0%9E%D0%96%D0%AC&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=Hi!+my+name+is+Serhii%2C+I+am+a+student%2C+I+like+to+study+programming%2C+I+write+in+C%2B%2B+and+Python.+I%E2%80%99m+still+a+beginner%2C+but+I+confidently+continue+working+on+myself+and+move+towards+my+goal!g+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=A027F7&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=Hi!+my+name+is+Serhii+I+am+a+student++but+I+confidently+continue+working+on+myself+and+move+towards+my+goal!;I+like+to+study+programming;+I+write+in+C%2B%2B+and+Python.;+I%E2%80%99m+still+a+beginner;But+i+continue+working+on+myself;and+move+towards+my+goal!)](https://git.io/typing-svg)
 ![333](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077)   <img src="https://widgetbite.com/stats/abendgast" alt="watching_count" />   
 
                      
