@@ -40,12 +40,12 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact&theme=dark)
+![Stars](https://img.shields.io/github/stars/abendgast?affiliations=OWNER&style=social)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abendgast&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![Forks](https://img.shields.io/github/forks/abendgast?style=social)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/abendgast/abendgast?color=blue&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/abendgast?style=social)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abendgast&theme=dark)
+![Issues](https://img.shields.io/github/issues/abendgast/abendgast)
 
-![Profile views](https://gpvc.arturio.dev/abendgast)
+![License](https://img.shields.io/github/license/abendgast/abendgast)
