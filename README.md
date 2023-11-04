@@ -1,6 +1,6 @@
 
 
-<sub>These infographics were generated using [abendgast/metrics](https://github.com/abendgast/metrics)</sub>#)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
