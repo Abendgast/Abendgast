@@ -1,4 +1,4 @@
-<img src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.achievements.compact.svg"/>
+<img src="https://github.com/lowlighter/metrics/raw/examples/abendgast.plugin.achievements.compact.svg"/>
 
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
