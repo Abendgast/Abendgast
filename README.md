@@ -28,9 +28,6 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=radical" alt="GitHub stats" height="165">
-</p>
-
-<p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=abendgast&theme=dark&background=000000" alt="GitHub Streak" height="165">
 </p>
 
