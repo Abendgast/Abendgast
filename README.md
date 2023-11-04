@@ -1,7 +1,7 @@
 
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A027F7&width=720&lines=Hi!+I'm+Serhii,+a+student.+I+enjoy+programming,+write+in+C%2B%2B+&+Python.+Still+a+beginner,+but+working+towards+my+goal!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A027F7&width=720&speed=5000&lines=Hi!+I'm+Serhii,+beginner+C%2B%2B+developer)](https://git.io/typing-svg)
 ![333](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077)   <img src="https://widgetbite.com/stats/abendgast" alt="watching_count" />   
                      
 ## Languages and tools
