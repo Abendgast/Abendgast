@@ -32,7 +32,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />	
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abendgast)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/abendgast)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abendgast&theme=xcode)
 
 
