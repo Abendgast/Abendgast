@@ -1,10 +1,7 @@
+
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-<<<<<<< HEAD
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A027F7&width=720&lines=Hi!+my+name+is+Serhii,+I+am+a+student,+I+like+to+study+programming,+I+write+in+C%2B%2B+and+Python.+I%E2%80%99m+still+a+beginner,+but+I+confidently+continue+working+on+myself+and+move+towards+my+goal!)](https://git.io/typing-svg)
-=======
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A027F7&width=720&lines=Hi!+my+name+is+Serhii;I+am+a+student;I+like+to+study+programming;I+write+in+C%2B%2B+and+Python.;I%E2%80%99m+still+a+beginner;but+I+confidently+continue+working+on+myself+and+move+towards+my+goal!)](https://git.io/typing-svg)
->>>>>>> 488505f3cd74c413aea00ac37b25c100131c1564
 ![333](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077)   <img src="https://widgetbite.com/stats/abendgast" alt="watching_count" />   
                      
 ## Languages and tools
@@ -31,4 +28,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=radical)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abendgast&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />	
+
+
