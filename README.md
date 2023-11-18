@@ -2,9 +2,9 @@
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A027F7&width=820&speed=5000&lines=Hi!+I'm+Abendgast,+beginner+C%2B%2B+developer)](https://git.io/typing-svg)
-<p align="center">
+
 ![333](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077) 
-</p>
+
 <img src="https://widgetbite.com/stats/abendgast" alt="watching_count" /> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 <br><br>
 
