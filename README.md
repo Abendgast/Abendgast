@@ -38,7 +38,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=radical" alt="GitHub stats" height="165">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abendgast&theme=radical&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" height="165" /></a>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abendgast&theme=radical&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" height="165" /></a>
+
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />	
