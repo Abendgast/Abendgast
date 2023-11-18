@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=2077" />
-  <img alt="Abendgast's Top Languages" src="https://abendgast-github-readme-stats.vercel.app/api/top-langs/?username=Abendgast&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </p>
 
 <img src="https://widgetbite.com/stats/abendgast" alt="watching_count" /> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
