@@ -1,5 +1,5 @@
  
-<img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=radical" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A027F7&width=820&speed=5000&lines=Hi!+I'm+Abendgast,+beginner+C%2B%2B+developer)](https://git.io/typing-svg)
 
