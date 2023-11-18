@@ -36,7 +36,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=radical" alt="GitHub stats" height="165">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=abendgast&theme=dark&background=000000" alt="GitHub Streak" height="165">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=radical&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />	
