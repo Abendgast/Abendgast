@@ -1,3 +1,4 @@
+![gif](./assets/2825826.gif)
  
 <img src="https://myreadme.vercel.app/api/embed/abendgast?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
