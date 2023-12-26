@@ -37,6 +37,12 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 
+## My workspace <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="23">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=radical" alt="GitHub stats" height="165">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abendgast&theme=radical&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" height="165" /></a>
