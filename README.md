@@ -61,7 +61,7 @@ $ ./ABD
 
 
 <div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
-  <div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="display: flex; flex-wrap: wrap; justify-content: center;"> 
       <div style="display: flex; flex-direction: row; margin-bottom: 20px;"> 
         <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;"> 
