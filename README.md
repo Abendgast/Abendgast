@@ -16,12 +16,37 @@ $ ./ABD
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=400&color=A027F7&multiline=true&random=false&width=835&height=55&lines=%D0%9D%D1%96!+Im+beginner+C%2B%2B+developer.+I+write+scripts+in+python+and+bash.;And+also+i+like+to+develop+software.+Welcome+to+my+codespace!)](https://git.io/typing-svg)
 
+## My Repos
 <p align="center">
   <img decoding="async" loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=radical" height="148" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact&theme=radical&hide_border=true" height="148" />
 </p>
 
-
+<div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
+  <div style="text-align: center;">
+    <div style="display: inline-flex; flex-direction: column; align-items: center;"> 
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;"> 
+        <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;"> 
+          <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=react&border_color=A027F7&border_radius=10" alt="ProxyObserver"> 
+        </a> 
+        <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY" style="width: 300px; height: 200px;"> 
+          <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=react&border_color=A027F7&border_radius=10" alt="Mini gamePY"> 
+        </a> 
+      </div>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;"> 
+        <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT" style="margin-right: 20px; width: 300px; height: 200px;"> 
+          <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=react&border_color=A027F7&border_radius=10" alt="Price Determinator BTC USDT"> 
+        </a> 
+        <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup" style="width: 300px; height: 200px;"> 
+          <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=react&border_color=A027F7&border_radius=10" alt="2023 C Backup"> 
+        </a> 
+      </div>
+      <h4 style="margin-bottom: 0;"> 
+        <a href="https://github.com/Abendgast?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a> 
+      </h4>
+    </div>
+  </div>
+</div>
 
 ## Languages and tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="23">
 
@@ -60,31 +85,7 @@ $ ./ABD
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
-  <div style="text-align: center;">
-    <div style="display: inline-flex; flex-direction: column; align-items: center;"> 
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;"> 
-        <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;"> 
-          <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=react&border_color=A027F7&border_radius=10" alt="ProxyObserver"> 
-        </a> 
-        <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY" style="width: 300px; height: 200px;"> 
-          <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=react&border_color=A027F7&border_radius=10" alt="Mini gamePY"> 
-        </a> 
-      </div>
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;"> 
-        <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT" style="margin-right: 20px; width: 300px; height: 200px;"> 
-          <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=react&border_color=A027F7&border_radius=10" alt="Price Determinator BTC USDT"> 
-        </a> 
-        <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup" style="width: 300px; height: 200px;"> 
-          <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=react&border_color=A027F7&border_radius=10" alt="2023 C Backup"> 
-        </a> 
-      </div>
-      <h4 style="margin-bottom: 0;"> 
-        <a href="https://github.com/Abendgast?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a> 
-      </h4>
-    </div>
-  </div>
-</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
