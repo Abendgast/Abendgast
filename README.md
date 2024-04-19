@@ -63,25 +63,29 @@ $ ./ABD
 <img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />	
 
 
-<br>
-<div width="100%" align="center">
-  <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=react&border_color=61dafb&border_radius=10"></a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
+    <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px;">
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=react&border_color=61dafb&border_radius=10" alt="ProxyObserver">
+    </a>
+    <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT">
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=react&border_color=61dafb&border_radius=10" alt="Price Determinator BTC USDT">
+    </a>
+  </div>
+
+  <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
+    <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup" style="margin-right: 20px;">
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=react&border_color=61dafb&border_radius=10" alt="2023 C Backup">
+    </a>
+    <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY">
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=react&border_color=61dafb&border_radius=10" alt="Mini gamePY">
+    </a>
+  </div>
+
+  <h4 align="center">
+    <a href="https://github.com/Abendgast?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  </h4>
 </div>
-<br/><br/>
-<div width="100%" align="center">
-  <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<h4 align="center">
-  <a href="https://github.com/Abendgast?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-
-
-
 
 
 
