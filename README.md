@@ -1,8 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false"/>
 
 ![gif](./assets/ezgif.com-crop.gif)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false"/>
  
 ```bash
 $ ./ABD
@@ -52,7 +51,7 @@ $ ./ABD
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![GNU](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=radical" alt="GitHub stats" height="165">
