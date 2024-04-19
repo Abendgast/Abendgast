@@ -74,11 +74,11 @@ $ ./ABD
   <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/>
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/Abendgast?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 
 
