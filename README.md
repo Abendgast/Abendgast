@@ -62,28 +62,22 @@ $ ./ABD
 
 <img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />	
 
-
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
-    <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px; --border-color: #A027F7;">
+    <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;">
       <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=react&border_color=A027F7&border_radius=10" alt="ProxyObserver">
-      <p style="color: var(--border-color);">ProxyObserver</p>
     </a>
-    <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY" style="width: 300px; height: 200px; --border-color: #A027F7;">
+    <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY" style="width: 300px; height: 200px;">
       <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=react&border_color=A027F7&border_radius=10" alt="Mini gamePY">
-      <p style="color: var(--border-color);">Mini gamePY</p>
     </a>
   </div>
 
   <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
-    <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT" style="margin-right: 20px; width: 300px; height: 200px; --border-color: #A027F7;">
+    <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT" style="margin-right: 20px; width: 300px; height: 200px;">
       <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=react&border_color=A027F7&border_radius=10" alt="Price Determinator BTC USDT">
-      <p style="color: var(--border-color);">Price Determinator BTC USDT</p>
     </a>
-    <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup" style="width: 300px; height: 200px; --border-color: #A027F7;">
+    <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup" style="width: 300px; height: 200px;">
       <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=react&border_color=A027F7&border_radius=10" alt="2023 C Backup">
-      <p style="color: var(--border-color);">2023 C Backup</p>
     </a>
   </div>
 
