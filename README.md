@@ -60,10 +60,9 @@ $ ./ABD
 
 
 
-<div style="display: table; height: 100vh; width: 100%; position: relative;">
-  <div style="display: table-cell; vertical-align: middle; text-align: center;">
-    <div style="margin: auto;">
-      <div style="display: flex; flex-wrap: wrap; justify-content: center;"> 
+<div style="display: grid; place-items: center; min-height: 100vh;">
+  <div>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;"> 
           <div style="display: flex; flex-direction: row; margin-bottom: 20px;"> 
       <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;"> 
         <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=react&border_color=A027F7&border_radius=10" alt="ProxyObserver"> 
@@ -83,7 +82,6 @@ $ ./ABD
     <h4 align="center"> 
       <a href="https://github.com/Abendgast?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a> 
     </h4>
-      </div>
     </div>
   </div>
 </div>
