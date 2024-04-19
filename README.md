@@ -87,33 +87,7 @@ $ ./ABD
 </div>
 
 1
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
-    <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;">
-      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=react&border_color=A027F7&border_radius=10" alt="ProxyObserver">
-      <p style="color: #A027F7;">ProxyObserver</p>
-    </a>
-    <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY" style="width: 300px; height: 200px;">
-      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=react&border_color=A027F7&border_radius=10" alt="Mini gamePY">
-      <p style="color: #A027F7;">Mini gamePY</p>
-    </a>
-  </div>
 
-  <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
-    <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT" style="margin-right: 20px; width: 300px; height: 200px;">
-      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=react&border_color=A027F7&border_radius=10" alt="Price Determinator BTC USDT">
-      <p style="color: #A027F7;">Price Determinator BTC USDT</p>
-    </a>
-    <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup" style="width: 300px; height: 200px;">
-      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=react&border_color=A027F7&border_radius=10" alt="2023 C Backup">
-      <p style="color: #A027F7;">2023 C Backup</p>
-    </a>
-  </div>
-
-  <h4 align="center">
-    <a href="https://github.com/Abendgast?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-  </h4>
-</div>
 
 
 
