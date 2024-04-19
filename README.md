@@ -67,25 +67,25 @@ $ ./ABD
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
-    <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px; border: 5px solid #A027F7; border-radius: 10px; display: flex; align-items: center; justify-content: center; text-decoration: none; flex-direction: column; padding: 10px;">
-      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=react&border_color=A027F7&border_radius=10" alt="ProxyObserver">
-      <span style="color: #A027F7; font-weight: bold; margin-top: 10px;">ProxyObserver</span>
-    </a>
-    <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY" style="width: 300px; height: 200px; border: 5px solid #A027F7; border-radius: 10px; display: flex; align-items: center; justify-content: center; text-decoration: none; flex-direction: column; padding: 10px;">
-      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=react&border_color=A027F7&border_radius=10" alt="Mini gamePY">
-      <span style="color: #A027F7; font-weight: bold; margin-top: 10px;">Mini gamePY</span>
-    </a>
+    <div style="margin-right: 20px; width: 300px; height: 200px; border: 5px solid #A027F7; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 10px;">
+      <img style="max-width: 100%; max-height: 80%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=react&border_color=A027F7&border_radius=10" alt="ProxyObserver">
+      <span style="color: #A027F7; font-weight: bold; margin-top: 5px;">ProxyObserver</span>
+    </div>
+    <div style="width: 300px; height: 200px; border: 5px solid #A027F7; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 10px;">
+      <img style="max-width: 100%; max-height: 80%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=react&border_color=A027F7&border_radius=10" alt="Mini gamePY">
+      <span style="color: #A027F7; font-weight: bold; margin-top: 5px;">Mini gamePY</span>
+    </div>
   </div>
 
   <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
-    <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT" style="margin-right: 20px; width: 300px; height: 200px; border: 5px solid #A027F7; border-radius: 10px; display: flex; align-items: center; justify-content: center; text-decoration: none; flex-direction: column; padding: 10px;">
-      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=react&border_color=A027F7&border_radius=10" alt="Price Determinator BTC USDT">
-      <span style="color: #A027F7; font-weight: bold; margin-top: 10px;">Price Determinator BTC USDT</span>
-    </a>
-    <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup" style="width: 300px; height: 200px; border: 5px solid #A027F7; border-radius: 10px; display: flex; align-items: center; justify-content: center; text-decoration: none; flex-direction: column; padding: 10px;">
-      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=react&border_color=A027F7&border_radius=10" alt="2023 C Backup">
-      <span style="color: #A027F7; font-weight: bold; margin-top: 10px;">2023 C Backup</span>
-    </a>
+    <div style="margin-right: 20px; width: 300px; height: 200px; border: 5px solid #A027F7; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 10px;">
+      <img style="max-width: 100%; max-height: 80%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=react&border_color=A027F7&border_radius=10" alt="Price Determinator BTC USDT">
+      <span style="color: #A027F7; font-weight: bold; margin-top: 5px;">Price Determinator BTC USDT</span>
+    </div>
+    <div style="width: 300px; height: 200px; border: 5px solid #A027F7; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 10px;">
+      <img style="max-width: 100%; max-height: 80%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=react&border_color=A027F7&border_radius=10" alt="2023 C Backup">
+      <span style="color: #A027F7; font-weight: bold; margin-top: 5px;">2023 C Backup</span>
+    </div>
   </div>
 
   <h4 align="center">
