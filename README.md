@@ -61,9 +61,9 @@ $ ./ABD
 
 
 <div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
-  <div style="width: 100%; max-width: 900px;"> <!-- Добавлена ширина и максимальная ширина -->
-    <div style="display: flex; flex-wrap: wrap; justify-content: center;"> 
-      <div style="display: flex; flex-direction: row; margin-bottom: 20px;"> 
+  <div style="text-align: center;">
+    <div style="display: inline-flex; flex-direction: column; align-items: center;"> 
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;"> 
         <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;"> 
           <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=react&border_color=A027F7&border_radius=10" alt="ProxyObserver"> 
         </a> 
@@ -71,7 +71,7 @@ $ ./ABD
           <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=react&border_color=A027F7&border_radius=10" alt="Mini gamePY"> 
         </a> 
       </div>
-      <div style="display: flex; flex-direction: row; margin-bottom: 20px;"> 
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;"> 
         <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT" style="margin-right: 20px; width: 300px; height: 200px;"> 
           <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=react&border_color=A027F7&border_radius=10" alt="Price Determinator BTC USDT"> 
         </a> 
@@ -79,7 +79,7 @@ $ ./ABD
           <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=react&border_color=A027F7&border_radius=10" alt="2023 C Backup"> 
         </a> 
       </div>
-      <h4 align="center"> 
+      <h4 style="margin-bottom: 0;"> 
         <a href="https://github.com/Abendgast?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a> 
       </h4>
     </div>
