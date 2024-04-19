@@ -60,7 +60,7 @@ $ ./ABD
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=abendgast&theme=juicyfresh&no-bg=true" />	
+<p align="center">	
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
     <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;">
@@ -84,7 +84,7 @@ $ ./ABD
     <a href="https://github.com/Abendgast?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
   </h4>
 </div>
-
+</p>
 
 
 
