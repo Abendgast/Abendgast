@@ -37,11 +37,6 @@ $ ./ABD
             <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup" style="width: 300px; height: 200px;"> 
               <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=react&border_color=A027F7&border_radius=10" alt="2023 C Backup"> 
             </a> 
-          </div>
-          <h4 style="margin-bottom: 0;"> 
-            <a href="https://github.com/Abendgast?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a> 
-          </h4>
-        </div>
       </div>
     </div>
 </p>
