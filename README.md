@@ -60,9 +60,9 @@ $ ./ABD
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
-  <div style="position: relative; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center;"> 
+<div style="text-align: center; min-height: 100vh; display: flex; flex-direction: column; justify-content: center;">
+  <div style="margin: 0 auto;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">  
       <div style="display: flex; flex-direction: row; margin-bottom: 20px;"> 
   <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;"> 
     <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=react&border_color=A027F7&border_radius=10" alt="ProxyObserver"> 
