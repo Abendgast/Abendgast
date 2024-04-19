@@ -1,5 +1,6 @@
+https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false
 ![gif](./assets/ezgif.com-crop.gif)
- 
+https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false
  
 ```bash
 $ ./ABD
