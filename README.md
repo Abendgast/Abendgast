@@ -86,12 +86,6 @@ $ ./ABD
   </h4>
 </div>
 
-1
-
-
-
-
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
