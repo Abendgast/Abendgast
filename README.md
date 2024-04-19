@@ -12,7 +12,7 @@ $ ./ABD
                                                                                           
                                                                                                                                                                                                 
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A027F7&width=820&speed=5000&lines=Hi!+I'm+Abendgast,+beginner+C%2B%2B+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A027F7&multiline=true&random=false&width=435&lines=%D0%9D%D1%96!+Im+beginner+C%2B%2B+developer;I+write+scripts+in+python+and+bash;And+also+i+like+to+develop+software)](https://git.io/typing-svg)
 
 <p align="center">
   <img decoding="async" loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=radical" height="148" />
