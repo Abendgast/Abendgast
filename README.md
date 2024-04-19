@@ -2,7 +2,7 @@
 
 ![gif](./assets/ezgif.com-crop.gif)
 
- 
+
 ```yaml
 $ ./ABD
 
