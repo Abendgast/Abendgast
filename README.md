@@ -24,18 +24,18 @@ $ ./ABD
         <div style="display: inline-flex; flex-direction: column; align-items: center;"> 
           <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;"> 
             <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;"> 
-              <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=dark&border_color=A027F7&border_radius=10&title_color=A027F7" alt="ProxyObserver"> 
+              <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=dark&border_color=A027F7&border_radius=10&title_color=A027F7&icon_color=ff69b4" alt="ProxyObserver"> 
             </a> 
             <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY" style="width: 300px; height: 200px;"> 
-              <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=dark&border_color=A027F7&border_radius=10&title_color=A027F7" alt="Mini gamePY"> 
+              <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=dark&border_color=A027F7&border_radius=10&title_color=A027F7&icon_color=ff69b4" alt="Mini gamePY"> 
             </a> 
           </div>
           <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;"> 
             <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT" style="margin-right: 20px; width: 300px; height: 200px;"> 
-              <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=dark&border_color=A027F7&border_radius=10&title_color=A027F7" alt="Price Determinator BTC USDT"> 
+              <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=dark&border_color=A027F7&border_radius=10&title_color=A027F7&icon_color=ff69b4" alt="Price Determinator BTC USDT"> 
             </a> 
             <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup" style="width: 300px; height: 200px;"> 
-              <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=dark&border_color=A027F7&border_radius=10&title_color=A027F7" alt="2023 C Backup"> 
+              <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=dark&border_color=A027F7&border_radius=10&title_color=A027F7&icon_color=ff69b4" alt="2023 C Backup"> 
             </a> 
       </div>
     </div>
