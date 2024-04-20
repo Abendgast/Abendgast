@@ -3,29 +3,23 @@
 ![gif](./assets/ezgif.com-crop.gif)
 
 
-```yaml
-$ neofetch
-       _,met$$$$$gg.          abd@---- 
-    ,g$$$$$$$$$$$$$$$P.       --------- 
-  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 12 (bookworm) x86_64 
- ,$$P'              `$$$.     Host: -- --------- XXX -X -XXXX--XXXXX 
-',$$P       ,ggs.     `$$b:   Uptime: 0 hours, 0 min 
-`d$$'     ,$P"'   .    $$$    DE: ---- X.XX 
- $$P      d$'     ,    $$P    Terminal: ----X-terminal 
- $$:      $$.   -    ,d$$'    CPU: ----- -X-XXXX- (X) @ X.XXXGHz 
- $$;      Y$b._   _,d$P'      GPU: ----- ------ - --- 
- Y$$.    `.`"Y$$$$P"'         Memory: XXXXMiB / XXXXMiB 
- `$$b      "-.__              Disk (/): XXG / XXXXG (XX%) 
-  `Y$$                        -------------------------- 
-   `Y$$.                      Local IP: XXX.XXX.X.XX 
-     `$$b.                    Public IP: XXX.XXX.XX.XX 
-       `Y$$b.
-          `"Y$b._                                     
-              `"""                                    
-
-
-                   
-```
+<span style="color:#800080">_,met$$$$$gg.</span> abd@----
+<span style="color:#800080">,g$$$$$$$$$$$$$$$P.</span> ---------
+<span style="color:#800080">,g$$P" """Y$$.".</span> OS: Debian GNU/Linux 12 (bookworm) x86_64
+<span style="color:#800080">,$$P' `$$$.</span> Host: -- --------- XXX -X -XXXX--XXXXX
+<span style="color:#800080">',$$P ,ggs. `$$b:</span> Uptime: 0 hours, 0 min  
+<span style="color:#800080">`d$$' ,$P"' . $$$</span> DE: ---- X.XX
+<span style="color:#800080">$$P d$' , $$P</span> Terminal: ----X-terminal
+<span style="color:#800080">$$: $$. - ,d$$'</span> CPU: ----- -X-XXXX- (X) @ X.XXXGHz
+<span style="color:#800080">$$; Y$b._ _,d$P'</span> GPU: ----- ------ - ---
+<span style="color:#800080">Y$$. `.`"Y$$$$P"'</span> Memory: XXXXMiB / XXXXMiB
+<span style="color:#800080">`$$b "-._</span> Disk (/): XXG / XXXXG (XX%)
+<span style="color:#800080">`Y$$</span> --------------------------
+<span style="color:#800080">`Y$$.</span> Local IP: XXX.XXX.X.XX  
+<span style="color:#800080">`$$b.</span> Public IP: XXX.XXX.XX.XX
+<span style="color:#800080">`Y$$b.</span>
+<span style="color:#800080">`"Y$b._</span>
+<span style="color:#800080">`"""</span>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&color=8509F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=_____%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C_____%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C____%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C__%2F%5C%5C%5C%5C%5C_____%2F%5C%5C%5C__%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C________%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C_____%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C________%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C____%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C_++++++++;+___%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C__%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C_%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F__%5C%2F%5C%5C%5C%5C%5C%5C___%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C____%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F____%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C____%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C_%5C%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C%2F%2F%2F%2F%2F__+++++++;++__%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_____________%5C%2F%5C%5C%5C%2F%5C%5C%5C__%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C______%5C%2F%2F%5C%5C%5C__%2F%5C%5C%5C______________%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C__%5C%2F%2F%5C%5C%5C______%5C%2F%2F%2F________%5C%2F%5C%5C%5C_______++++++;+++_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C__%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C_____%5C%2F%5C%5C%5C%2F%2F%5C%5C%5C_%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C____%2F%5C%5C%5C%5C%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C___%5C%2F%2F%2F%2F%5C%5C%5C_______________%5C%2F%5C%5C%5C_______+++++;++++_%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C_%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C_%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F______%5C%2F%5C%5C%5C%5C%2F%2F%5C%5C%5C%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C___%5C%2F%2F%2F%2F%2F%5C%5C%5C_%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C______%5C%2F%2F%2F%2F%5C%5C%5C____________%5C%2F%5C%5C%5C_______++++;+++++_%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_____________%5C%2F%5C%5C%5C_%5C%2F%2F%5C%5C%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C_________%5C%2F%2F%2F%2F%5C%5C%5C_________%5C%2F%5C%5C%5C_______+++;++++++_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_____________%5C%2F%5C%5C%5C__%5C%2F%2F%5C%5C%5C%5C%5C%5C_%5C%2F%5C%5C%5C_______%2F%5C%5C%5C__%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C__%2F%5C%5C%5C______%5C%2F%2F%5C%5C%5C________%5C%2F%5C%5C%5C_______++;+++++++_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%2F__%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C_%5C%2F%5C%5C%5C___%5C%2F%2F%5C%5C%5C%5C%5C_%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%2F___%5C%2F%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%2F__%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%2F%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%2F_________%5C%2F%5C%5C%5C_______+;++++++++_%5C%2F%2F%2F________%5C%2F%2F%2F__%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F____%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F__%5C%2F%2F%2F_____%5C%2F%2F%2F%2F%2F__%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F______%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F____%5C%2F%2F%2F________%5C%2F%2F%2F____%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F___________%5C%2F%2F%2F________)](https://git.io/typing-svg)
