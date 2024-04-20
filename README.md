@@ -4,15 +4,27 @@
 
 
 ```yaml
-$ ./ABD
+$ neofetch
+       _,met$$$$$gg.          abd@---- 
+    ,g$$$$$$$$$$$$$$$P.       --------- 
+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 12 (bookworm) x86_64 
+ ,$$P'              `$$$.     Host: -- --------- XXX -X -XXXX--XXXXX 
+',$$P       ,ggs.     `$$b:   Uptime: 0 hours, 0 min 
+`d$$'     ,$P"'   .    $$$    DE: ---- X.XX 
+ $$P      d$'     ,    $$P    Terminal: ----X-terminal 
+ $$:      $$.   -    ,d$$'    CPU: ----- -X-XXXX- (X) @ X.XXXGHz 
+ $$;      Y$b._   _,d$P'      GPU: ----- ------ - --- 
+ Y$$.    `.`"Y$$$$P"'         Memory: XXXXMiB / XXXXMiB 
+ `$$b      "-.__              Disk (/): XXG / XXXXG (XX%) 
+  `Y$$                        -------------------------- 
+   `Y$$.                      Local IP: XXX.XXX.X.XX 
+     `$$b.                    Public IP: XXX.XXX.XX.XX 
+       `Y$$b.
+          `"Y$b._                                     
+              `"""                                    
 
-    |     '||''|.   '||''''|  '|.   '|' '||''|.    ..|'''.|      |      .|'''.|  |''||''| 
-   |||     ||   ||   ||  .     |'|   |   ||   ||  .|'     '     |||     ||..  '     ||    
-  |  ||    ||'''|.   ||''|     | '|. |   ||    || ||    ....   |  ||     ''|||.     ||    
- .''''|.   ||    ||  ||        |   |||   ||    || '|.    ||   .''''|.  .     '||    ||    
-.|.  .||. .||...|'  .||.....| .|.   '|  .||...|'   ''|...'|  .|.  .||. |'....|'    .||.   
-                                                                                          
-                                                                                                                                                                                                
+
+                   
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=400&color=A027F7&multiline=true&random=false&width=835&height=55&lines=%D0%9D%D1%96!+Im+beginner+DevOps+engeener.+I+write+scripts+in+python+and+bash.;And+also+i+like+to+develop+software.+Welcome+to+my+codespace!)](https://git.io/typing-svg)
 
