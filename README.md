@@ -3,7 +3,7 @@
 ![gif](./assets/ezgif.com-crop.gif)
 
 
-```bash
+```yaml
 $ neofetch
        _,met$$$$$gg.          abd@---- 
     ,g$$$$$$$$$$$$$$$P.       --------- 
