@@ -1,5 +1,29 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=008000&background=000000&multiline=true&repeat=false&random=false&width=535&height=40&lines=%24+ssh+-i+~%2F.ssh%2Fid_abendgast_rsa+-p+22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&duration=800&pause=800&color=008000&background=000000&center=true&multiline=true&repeat=false&random=false&width=535&height=500&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;Connecting+to+Profile+;Abendgast;%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=500&pause=50&color=8509F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=150&lines=_____%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C_____%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C____%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C__%2F%5C%5C%5C%5C%5C_____%2F%5C%5C%5C__%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C________%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C_____%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C________%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C____%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C_++++++++;+___%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C__%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C_%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F__%5C%2F%5C%5C%5C%5C%5C%5C___%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C____%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F____%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C____%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C_%5C%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C%2F%2F%2F%2F%2F__+++++++;++__%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_____________%5C%2F%5C%5C%5C%2F%5C%5C%5C__%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C______%5C%2F%2F%5C%5C%5C__%2F%5C%5C%5C______________%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C__%5C%2F%2F%5C%5C%5C______%5C%2F%2F%2F________%5C%2F%5C%5C%5C_______++++++;+++_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C__%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C_____%5C%2F%5C%5C%5C%2F%2F%5C%5C%5C_%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C____%2F%5C%5C%5C%5C%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C___%5C%2F%2F%2F%2F%5C%5C%5C_______________%5C%2F%5C%5C%5C_______+++++;++++_%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C_%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C_%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F______%5C%2F%5C%5C%5C%5C%2F%2F%5C%5C%5C%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C___%5C%2F%2F%2F%2F%2F%5C%5C%5C_%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C______%5C%2F%2F%2F%2F%5C%5C%5C____________%5C%2F%5C%5C%5C_______++++;+++++_%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_____________%5C%2F%5C%5C%5C_%5C%2F%2F%5C%5C%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%5C%5C%5C_________%5C%2F%2F%2F%2F%5C%5C%5C_________%5C%2F%5C%5C%5C_______+++;++++++_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_____________%5C%2F%5C%5C%5C__%5C%2F%2F%5C%5C%5C%5C%5C%5C_%5C%2F%5C%5C%5C_______%2F%5C%5C%5C__%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C__%2F%5C%5C%5C______%5C%2F%2F%5C%5C%5C________%5C%2F%5C%5C%5C_______++;+++++++_%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%2F__%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C_%5C%2F%5C%5C%5C___%5C%2F%2F%5C%5C%5C%5C%5C_%5C%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%2F___%5C%2F%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%2F__%5C%2F%5C%5C%5C_______%5C%2F%5C%5C%5C_%5C%2F%2F%2F%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%2F_________%5C%2F%5C%5C%5C_______+;++++++++_%5C%2F%2F%2F________%5C%2F%2F%2F__%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F____%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F__%5C%2F%2F%2F_____%5C%2F%2F%2F%2F%2F__%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F______%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F____%5C%2F%2F%2F________%5C%2F%2F%2F____%5C%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F___________%5C%2F%2F%2F________)](https://git.io/typing-svg)
 
 
