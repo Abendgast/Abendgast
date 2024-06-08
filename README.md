@@ -1,11 +1,4 @@
-<style>
-  body {
-    background-image: url('https://raw.githubusercontent.com/Abendgast/Abendgast/main/assets/WebPbig.webp');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-  }
-</style>
+
 
 
 
