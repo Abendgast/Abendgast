@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false"/>
 
 ```math
-unicode
+$unicode
 ```
 
 <img src="https://github.com/Abendgast/Abendgast/blob/main/assets/ezgif.com-crop.gif" width="100%" height="100%" loop=infinite>
