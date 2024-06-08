@@ -1,8 +1,10 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false"/>
 
-\includegraphics[height=\textheight,width=\textwidth]{https://i.imgur.com/jdkC7gu.webp}
 
+```math
+\includegraphics[height=\textheight,width=\textwidth]{https://i.imgur.com/jdkC7gu.webp}
+```
 
 <img src="https://github.com/Abendgast/Abendgast/blob/main/assets/ezgif.com-crop.gif" width="100%" height="100%" loop=infinite>
 
