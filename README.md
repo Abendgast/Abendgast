@@ -10,7 +10,7 @@
 \mmlToken{}
 ```
 ```math
-[\$unicode]
+{$\unicode}
 ```
 
 
