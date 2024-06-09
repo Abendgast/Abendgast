@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
 
-
+```
 $$
 \begin{align*}
 \frac{d}{dx}\left( \int_{0}^{x} f(u)\,du\right)&=f(x) \\
@@ -10,7 +10,7 @@ $$
 \int_{a}^{x} f'(u)\,du&=f(x)-f(a)
 \end{align*}
 $$
-
+```
 
 
 
