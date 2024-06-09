@@ -9,11 +9,7 @@
 
 <img src="https://github.com/Abendgast/Abendgast/blob/main/assets/ezgif.com-crop.gif" width="100%" height="100%" loop=infinite>
 
-<p align="center" >
-    <a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
-        <img width="450px" src="https://cdn.jsdelivr.net/gh/Abendgast/github-stats-terminal-style@latest/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
-    </a>
-</p>
+
 
 
 
