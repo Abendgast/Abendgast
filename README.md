@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=egg&height=59999934&color=8732a8&reversal=false"/>
 
-https://capsule-render.vercel.app/api?type=egg&height=59999934&color=8732a8&reversal=false
 
 
 
