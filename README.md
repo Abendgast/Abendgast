@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false"/>
 
-```latex
+
 \documentclass{standalone}
 \usepackage{tikz}
 
@@ -64,7 +64,7 @@
     \mandelbrot{200}{4}{-0.5}
 \end{tikzpicture}
 \end{document}
-```
+
 
 
 
