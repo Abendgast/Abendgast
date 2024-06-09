@@ -1,5 +1,6 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
+
 
 
 
@@ -129,9 +130,8 @@ z-index: 99999; position: fixed; bottom: 0; left: 0;transparent;  height: 10%; w
 
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false"/>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
 
 
 
