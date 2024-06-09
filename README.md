@@ -115,7 +115,7 @@
 {$\unicode}
 ```
 ```math
-\operatorname*{Min}_{x}
+\operatorname*
 ```
 
 
