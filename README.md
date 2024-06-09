@@ -3,15 +3,7 @@
 
 
 
-Copy code[ПосиланняНаСамеСебе](#ПосиланняНаСамеСебе)
 
-[РекурсивнеПосилання1][РекурсивнеПосилання1]
-[РекурсивнеПосилання2][РекурсивнеПосилання2]
-[РекурсивнеПосилання3][РекурсивнеПосилання3]
-
-[РекурсивнеПосилання1]: [РекурсивнеПосилання2]
-[РекурсивнеПосилання2]: [РекурсивнеПосилання3]
-[РекурсивнеПосилання3]: [РекурсивнеПосилання1]
 
 
 
@@ -133,3 +125,1683 @@ Copy code[ПосиланняНаСамеСебе](#ПосиланняНаСам�
 
 
 
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
+```js
+console.log(`
+```python
+print('
+```ruby
+puts '
+```perl
+print "
+```bash
+echo '
