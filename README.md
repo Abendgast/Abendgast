@@ -2,68 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false"/>
 
 
-\documentclass{standalone}
-\usepackage{tikz}
 
-% Define the colors for the Mandelbrot set
-\definecolor{mandelblue}{RGB}{66, 126, 170}
-\definecolor{mandelred}{RGB}{204, 0, 0}
-\definecolor{mandelyellow}{RGB}{255, 220, 93}
-\definecolor{mandelgreen}{RGB}{52, 168, 83}
-\definecolor{mandelpurple}{RGB}{96, 57, 118}
-
-% Function to calculate Mandelbrot set
-\newcommand{\mandelbrot}[3]{
-    \def\maxiter{#1}
-    \def\zoom{#2}
-    \def\cx{#3}
-    
-    \foreach \x in {0,...,399}{
-        \foreach \y in {0,...,399}{
-            \def\zx{0}
-            \def\zy{0}
-            \def\px{0}
-            \def\py{0}
-            \def\i{0}
-            
-            \foreach \iter in {0,...,\maxiter}{
-                \pgfmathsetmacro{\newx}{\zx*\zx - \zy*\zy + \cx}
-                \pgfmathsetmacro{\newy}{2*\zx*\zy + \cy}
-                \pgfmathsetmacro{\dist}{sqrt(\newx*\newx + \newy*\newy)}
-                
-                \ifdim\dist pt > 2 pt
-                    \breakforeach
-                \fi
-                
-                \def\zx{\newx}
-                \def\zy{\newy}
-                
-                \pgfmathsetmacro{\px}{\x/2000*\zoom - \zoom/2}
-                \pgfmathsetmacro{\py}{\y/2000*\zoom - \zoom/2}
-                
-                \pgfmathsetmacro{\brightness}{(\iter/\maxiter)^2*100}
-                
-                \pgfmathsetmacro{\red}{ifthenelse(\iter > \maxiter*0.8, mandelred,\ifthenelse(\iter > \maxiter*0.6, mandelyellow, mandelblue))}
-                \pgfmathsetmacro{\green}{ifthenelse(\iter > \maxiter*0.4, mandelgreen,\ifthenelse(\iter > \maxiter*0.2, mandelpurple, mandelblue))}
-                \pgfmathsetmacro{\blue}{ifthenelse(\iter > \maxiter*0.6, mandelblue,\ifthenelse(\iter > \maxiter*0.4, mandelgreen, mandelred))}
-                
-                \definecolor{mandelcolor}{rgb}{\red,\green,\blue}
-                
-                \fill[mandelcolor] (\px,\py) rectangle ++(1/2000,1/2000);
-                
-                \ifdim\iter pt > \maxiter pt
-                    \fill[black] (\px,\py) rectangle ++(1/2000,1/2000);
-                \fi
-            }
-        }
-    }
-}
-
-\begin{document}
-\begin{tikzpicture}
-    \mandelbrot{200}{4}{-0.5}
-\end{tikzpicture}
-\end{document}
 
 
 
