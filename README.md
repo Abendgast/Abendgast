@@ -130,8 +130,3 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=30000000&color=0:8400ff,100:2e00ad&section=header&reversal=true"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=30000000&color=0:8400ff,100:2e00ad&section=header&reversal=true"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=30000000&color=0:8400ff,100:2e00ad&section=header&reversal=true"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=30000000&color=0:8400ff,100:2e00ad&section=header&reversal=true"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=30000000&color=0:8400ff,100:2e00ad&section=header&reversal=true"/>
