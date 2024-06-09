@@ -2,7 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false"/>
 
 
-<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.7; background: url('https://raw.githubusercontent.com/Abendgast/Abendgast/main/assets/WebPbig.webp'); background-size: cover;"></div>
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.7; background-image: url('https://raw.githubusercontent.com/Abendgast/Abendgast/main/assets/WebPbig.webp'); background-size: cover;"></div>
+
 
 
 
