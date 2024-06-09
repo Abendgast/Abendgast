@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
 
 
-
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/Abendgast/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
 
 
 
