@@ -2,18 +2,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
 
 
-name: Compact display
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.achievements.compact.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: >-
-    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-    scripter, packager, explorer, infographile, manager
-  plugin_achievements_display: compact
-  plugin_achievements_threshold: X
 
 
 
