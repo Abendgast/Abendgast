@@ -1,29 +1,115 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
 
-```shell
-yogeshwaran01:~$ whoami
-YOGESHWARAN R
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Styled Markdown</title>
+    <style>
+        body {
+            background-color: #1e1e1e;
+            color: #ffffff;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        .terminal {
+            border: 1px solid #888888;
+            padding: 10px;
+            border-radius: 5px;
+            width: fit-content;
+        }
+        .command {
+            color: #ff79c6;
+        }
+        .output {
+            color: #8be9fd;
+        }
+        .table-container {
+            display: inline-block;
+            margin-top: 10px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #888888;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #44475a;
+            color: #50fa7b;
+        }
+        td {
+            background-color: #282a36;
+            color: #f1fa8c;
+        }
+        .exit {
+            color: #ff5555;
+        }
+    </style>
+</head>
+<body>
+    <div class="terminal">
+        <div><span class="command">yogeshwaran01:~$ whoami</span></div>
+        <div class="output">YOGESHWARAN R</div>
 
-yogeshwaran01:~$ git status
-GitHub Status
+        <div><span class="command">yogeshwaran01:~$ git status</span></div>
+        <div class="output">GitHub Status</div>
+        
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Count</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Stars</td>
+                        <td>541</td>
+                    </tr>
+                    <tr>
+                        <td>Forks</td>
+                        <td>111</td>
+                    </tr>
+                    <tr>
+                        <td>Commits</td>
+                        <td>1320</td>
+                    </tr>
+                    <tr>
+                        <td>Followers</td>
+                        <td>51</td>
+                    </tr>
+                    <tr>
+                        <td>Pull Requests</td>
+                        <td>67</td>
+                    </tr>
+                    <tr>
+                        <td>Issues</td>
+                        <td>1</td>
+                    </tr>
+                    <tr>
+                        <td>Repository</td>
+                        <td>40</td>
+                    </tr>
+                    <tr>
+                        <td>Gists</td>
+                        <td>8</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
 
-| Title         | Count |
-| ------------- | ----- |
-| Stars         | 541   |
-| Forks         | 111   |
-| Commits       | 1320  |
-| Followers     | 51    |
-| Pull Requests | 67    |
-| Issues        | 1     |
-| Repository    | 40    |
-| Gists         | 8     |
+        <div><span class="command">yogeshwaran01:~$ uptime</span></div>
+        <div class="output">1459</div>
 
-yogeshwaran01:~$ uptime
-1459
-
-yogeshwaran01:~$ exit
-```
+        <div><span class="command exit">yogeshwaran01:~$ exit</span></div>
+    </div>
+</body>
+</html>
 
 
 
