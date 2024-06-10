@@ -56,7 +56,7 @@
 
 <p align="center">
   <img decoding="async" loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=aura" height="148" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact&theme=radical&hide_border=true" height="148" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact&theme=aura&hide_border=true" height="148" />
 </p>
 
 ## Languages and tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="23">
@@ -101,8 +101,8 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=radical" alt="GitHub stats" height="165">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abendgast&theme=radical&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" height="165" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=aura" alt="GitHub stats" height="165">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abendgast&theme=aura&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" height="165" /></a>
 </p>
 
 
