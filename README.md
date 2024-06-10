@@ -55,8 +55,8 @@
 
 
 <p align="center">
-  <img decoding="async" loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=aura&icons=true&bg_color=00000000" height="148" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact&theme=aura&hide_border=true&icons=true&bg_color=00000000" height="148" />
+  <img decoding="async" loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=aura" height="148" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact&theme=aura&hide_border=true" height="148" />
 </p>
 
 ## Languages and tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="23">
