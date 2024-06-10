@@ -1,7 +1,25 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
 
+<pre style="background-color: #800080; color: #FFFFFF; padding: 10px; border-radius: 5px;">
+     ___      __   _
+    / _ \___ / /  (_)__ ____
+   / // / -_) _ \/ / _ `/ _ \
+  /____/\__/_.__/_/\_,_/_//_/
 
+  ╭───────────╮
+  │ |> user   │ abd
+  │ |> hname  │ 820G1
+  │ |> distro │ Debian GNU/Linux 12 (bookworm)
+  │ |> kernel │ 6.1.0-21-amd64
+  │ |> uptime │ 5h 27m
+  │ |> shell  │ bash
+  │ |> pkgs   │ >3
+  │ |> memory │ 4603 | 7743 MiB
+  ├───────────┤
+  │ -> colors │ ■ ■ ■ ■ ■ ■ ■ ■
+  ╰───────────╯
+</pre>
 
 
 
