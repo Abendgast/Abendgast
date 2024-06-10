@@ -101,8 +101,8 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=aura" alt="GitHub stats" height="165">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abendgast&theme=aura&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" height="165" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=abendgast&show_icons=true&theme=aura&hide_border=true" alt="GitHub stats" height="165">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abendgast&theme=aura&date_format=n%2Fj%5B%2FY%5D&mode=weekly&hide_border=true" alt="GitHub Streak" height="165" /></a>
 </p>
 
 
