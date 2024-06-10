@@ -2,16 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
 
 
-```{html}
-<div id="delayed-content" style="display:none;">
-     5 секунд.
-</div>
 
-<script>
-    setTimeout(function() {
-        document.getElementById('delayed-content').style.display = 'block';
-    }, 5000);
-</script>
 
 
 
