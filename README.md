@@ -1,6 +1,28 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
+```shell
+yogeshwaran01:~$ whoami
+YOGESHWARAN R
 
+yogeshwaran01:~$ git status
+GitHub Status
+
+| Title         | Count |
+| ------------- | ----- |
+| Stars         | 541   |
+| Forks         | 111   |
+| Commits       | 1320  |
+| Followers     | 51    |
+| Pull Requests | 67    |
+| Issues        | 1     |
+| Repository    | 40    |
+| Gists         | 8     |
+
+yogeshwaran01:~$ uptime
+1459
+
+yogeshwaran01:~$ exit
+```
 
 
 
