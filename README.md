@@ -55,7 +55,7 @@
 
 
 <p align="center">
-  <img decoding="async" loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=aura&theme=transparent" height="148" />
+  <img decoding="async" loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=transparent" height="148" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact&theme=aura&hide_border=true" height="148" />
 </p>
 
