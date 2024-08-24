@@ -46,7 +46,7 @@
 ## Skills and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="23">
 
 <details>
-<summary style="background-color: #9f27f6; color: white; padding: 5px 10px; border-radius: 5px;">Click to expand</summary>
+<summary style="background-color: #9f27f6; color: #9f27f6; padding: 5px 10px; border-radius: 5px;">Click</summary>
 
 | Languages | Socials | IDE | Workspace |
 |-----------|---------|-----|-----------|
