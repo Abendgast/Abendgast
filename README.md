@@ -47,12 +47,10 @@
 
 
 
-
 ## Skills and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="23">
 
-<details open>
-<summary><b>Languages</b></summary>
-<br>
+<details>
+<summary>Languages</summary>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -62,8 +60,7 @@
 </details>
 
 <details>
-<summary><b>Socials</b></summary>
-<br>
+<summary>Socials</summary>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username_736)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNZdG9USQcX4sfVs5OuwjRQ)
@@ -72,8 +69,7 @@
 </details>
 
 <details>
-<summary><b>IDE</b></summary>
-<br>
+<summary>IDE</summary>
 
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![NVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
@@ -84,8 +80,7 @@
 </details>
 
 <details>
-<summary><b>Workspace</b></summary>
-<br>
+<summary>Workspace</summary>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
@@ -95,24 +90,6 @@
 ![GNU](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 </details>
-
-<style>
-details {
-    display: inline-block;
-    margin: 0 10px;
-    cursor: pointer;
-}
-summary {
-    color: #9f27f6;
-    font-weight: bold;
-}
-summary:hover {
-    text-decoration: underline;
-}
-details[open] summary {
-    margin-bottom: 10px;
-}
-</style>
 
 
 
