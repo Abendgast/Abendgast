@@ -5,27 +5,6 @@
 
 
 
-
-
-<img src="https://github.com/Abendgast/Abendgast/blob/main/assets/ezgif.com-crop.gif" width="100%" height="100%" loop=infinite>
-
-
-
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&duration=500&pause=500&color=8509F7&background=00000080&multiline=true&repeat=false&random=false&width=1000&height=600&lines=%24+ssh+-i+~%2F.ssh%2Fid_abendgast_rsa+-p+22;%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;+++%E2%A0%80%E2%A0%80%E2%A0%80+Connecting+to+Profile+++++;%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80Abendgast;%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;%E2%A0%80;Establishing+secure+connection...;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+%7C+Connection+Established;Welcome+to+the+Abendgast+profile!;Initializing+session...;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92+20%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92+50%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92+70%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92+90%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+%7C+Session+Initialized;Configuring+settings...;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+%7C+Settings+Configured;Connection+successful!;%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80Connected+to+Abendgast;%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;%E2%A0%80;Access+granted.+Welcome!)](https://git.io/typing-svg)
-
-
-
-
-
-
-
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=400&color=A027F7&multiline=true&random=false&width=835&height=55&lines=%D0%9D%D1%96!+Im+beginner+DevOps+engeener.+I+write+scripts+in+python+and+bash.;And+also+i+like+to+develop+software.+Welcome+to+my+codespace!)](https://git.io/typing-svg)
 
 
