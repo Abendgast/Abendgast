@@ -1,26 +1,22 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=footer&reversal=false&textBg=false"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=d67642&background=3E3E3E00&center=true&repeat=false&width=435&lines=Welcome+to+my+workspace!" alt="Typing SVG" />
+  </a>
+</p>
 
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=AB24F7&background=3E3E3E00&center=true&repeat=false&width=435&lines=Welcome+to+my+workspace!)](https://git.io/typing-svg)
-
-
-
+## Stats
 
 <p align="center">
-  <img decoding="async" loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=aura" height="148" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact&theme=aura&hide_border=true" height="148" />
+  <img decoding="async" loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=aura_dark" height="148" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact&theme=aura_dark&hide_border=true" height="148" />
+</p>
 
 
 
 
-
-
-
-## Skills and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="23">
+## Skills and Tools 
 
 <details>
 <summary style="background-color: #9f27f6; color: #9f27f6; padding: 5px 10px; border-radius: 5px;">Click</summary>
@@ -32,56 +28,25 @@
 </details>
 
 
-
-
-## My Repositories
-
+## My repos
 <p align="center">
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 100vh;">
-      <div style="text-align: center;">
-        <div style="display: inline-flex; flex-direction: column; align-items: center;"> 
-          <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;"> 
-            <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;"> 
-              <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=dark&border_color=A027F7&border_radius=10&title_color=A027F7&icon_color=7ec8e3" alt="ProxyObserver"> 
-            </a> 
-            <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY" style="width: 300px; height: 200px;"> 
-              <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=dark&border_color=A027F7&border_radius=10&title_color=A027F7&icon_color=7ec8e3" alt="Mini gamePY"> 
-            </a> 
-          </div>
-          <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;"> 
-            <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT" style="margin-right: 20px; width: 300px; height: 200px;"> 
-              <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=dark&border_color=A027F7&border_radius=10&title_color=A027F7&icon_color=7ec8e3" alt="Price Determinator BTC USDT"> 
-            </a> 
-            <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup" style="width: 300px; height: 200px;"> 
-              <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=dark&border_color=A027F7&border_radius=10&title_color=A027F7&icon_color=7ec8e3" alt="2023 C Backup"> 
-            </a> 
-      </div>
-    </div>
+  <div align="center">
+    <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;"> 
+      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=aura_dark&border_radius=0&border_color=d94e32&title_color=58a6ff&icon_color=58a6ff" alt="ProxyObserver"> 
+    </a> 
+    <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY" style="width: 300px; height: 200px;"> 
+      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=aura_dark&border_radius=0&border_color=d94e32&title_color=58a6ff&icon_color=58a6ff" alt="Mini gamePY"> 
+    </a>
+  </div>
+  <div align="center" style="margin-top: 20px;">
+    <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT" style="margin-right: 20px; width: 300px; height: 200px;"> 
+      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=aura_dark&border_radius=0&border_color=d94e32&title_color=58a6ff&icon_color=58a6ff" alt="Price Determinator BTC USDT"> 
+    </a>
+    <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup" style="width: 300px; height: 200px;"> 
+      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=aura_dark&border_radius=0&border_color=d94e32&title_color=58a6ff&icon_color=58a6ff" alt="2023 C Backup"> 
+    </a>
+  </div>
 </p>
-
-
-
-
-
-
-```math
-\mmlToken{}
-```
-```math
-{$\unicode}
-```
-```math
-\operatorname*
-```
-
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=83&color=A027F7&section=header&reversal=false&textBg=false"/>
-
-
-
 
 
 
