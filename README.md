@@ -5,47 +5,46 @@
   </a>
 </p>
 
+### Contacts
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abendgast@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Abendgast)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1336001400488067116)
+
+
+
+### Tech Stack
+
+| **Languages** | **Cloud & IaC** | **Code Quality / Security** | **Monitoring & Observability** |
+|----------------|----------------|-----------------------------|-------------------------------|
+| ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)<br>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)<br>![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)<br>![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)<br>![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)<br>![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white) | ![SonarQube](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)<br>![SonarCloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)<br>![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)<br>![GitHub Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)<br>![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)<br>![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) |
+
 ## Stats
 
 <p align="center">
   <img decoding="async" loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abendgast&theme=aura_dark" height="148" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abendgast&layout=compact&theme=aura_dark&hide_border=true" height="148" />
 </p>
 
 
 
 
-## Skills and Tools 
-
-<details>
-<summary style="background-color: #9f27f6; color: #9f27f6; padding: 5px 10px; border-radius: 5px;">Click</summary>
-
-| Languages | Socials | IDE | Workspace |
-|-----------|---------|-----|-----------|
-| ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abendgast) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/897225470192521266) | ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) ![NVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)  ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)  | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Hyprland Badge](https://img.shields.io/badge/Hyprland-58E1FF?logo=hyprland&logoColor=000&style=flat-square) ![Wayland Badge](https://img.shields.io/badge/Wayland-FFBC00?logo=wayland&logoColor=000&style=flat-square) ![fish shell Badge](https://img.shields.io/badge/fish%20shell-34C534?logo=fishshell&logoColor=fff&style=flat-square) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) |
-
-</details>
 
 
 ## My repos
-<p align="center">
-  <div align="center">
-    <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="margin-right: 20px; width: 300px; height: 200px;"> 
-      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=aura_dark&border_radius=0&border_color=d94e32&title_color=58a6ff&icon_color=58a6ff" alt="ProxyObserver"> 
-    </a> 
-    <a href="https://github.com/Abendgast/Mini-gamePY" title="Mini gamePY" style="width: 300px; height: 200px;"> 
-      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Mini-gamePY&theme=aura_dark&border_radius=0&border_color=d94e32&title_color=58a6ff&icon_color=58a6ff" alt="Mini gamePY"> 
-    </a>
-  </div>
-  <div align="center" style="margin-top: 20px;">
-    <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT" style="margin-right: 20px; width: 300px; height: 200px;"> 
-      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=aura_dark&border_radius=0&border_color=d94e32&title_color=58a6ff&icon_color=58a6ff" alt="Price Determinator BTC USDT"> 
-    </a>
-    <a href="https://github.com/Abendgast/2023-C-Backup" title="2023 C Backup" style="width: 300px; height: 200px;"> 
-      <img style="max-width: 100%; max-height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=2023-C-Backup&theme=aura_dark&border_radius=0&border_color=d94e32&title_color=58a6ff&icon_color=58a6ff" alt="2023 C Backup"> 
-    </a>
-  </div>
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://github.com/Abendgast/ProxyObserver" title="ProxyObserver" style="width: 300px; height: 200px;"> 
+    <img style="max-width: 100%; max-height: 100%; object-fit: contain;" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=ProxyObserver&theme=aura_dark&border_radius=0&border_color=d94e32&title_color=58a6ff&icon_color=58a6ff" 
+         alt="ProxyObserver"> 
+  </a>
+
+  <a href="https://github.com/Abendgast/Price-Determinator-BTC-USDT" title="Price Determinator BTC USDT" style="width: 300px; height: 200px;"> 
+    <img style="max-width: 100%; max-height: 100%; object-fit: contain;" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=Abendgast&repo=Price-Determinator-BTC-USDT&theme=aura_dark&border_radius=0&border_color=d94e32&title_color=58a6ff&icon_color=58a6ff" 
+         alt="Price Determinator BTC USDT"> 
+  </a>
 </p>
+
+
 
 
 
